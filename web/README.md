@@ -10,3 +10,5 @@ an http server (a not open the local files with the browser, since the links and
 the image sources are absolute to where they are served from). The easiest way
 to run an http server locally is to run `python -m http.server` from the
 `web/build/` directory.
+
+Isha Gupta
